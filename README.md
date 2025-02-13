@@ -13,18 +13,18 @@ Things needed:
 | HC-SR04 Pin  | ESP32 Pin |
 | ------------- | ------------- |
 | VCC  | 3.3v or 5v  |
-| GND  | GND  |
+| -  | GND  |
 | TRIG  | GPIO12  |
 | ECHO  | GPIO13  |
 
 | RGB Led  | ESP32 Pin |
 | ------------- | ------------- |
-| GND  | GND  |
+| -  | GND  |
 |  RED | GPIO4  |
 | GREEN  | GPIO2  |
 | BLUE  | GPIO15  |
 
 | Piezo Buzzer  | ESP32 Pin |
 | ------------- | ------------- |
-| GND  | GND  |
+| -  | GND  |
 | VCC | 3.3v or 5v  |
