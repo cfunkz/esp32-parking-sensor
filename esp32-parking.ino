@@ -51,7 +51,7 @@ void loop() {
     Serial.print(distance);
     Serial.println(" cm");
 
-    if (distance < 5) {  // aaaaaaaaaaaaaaaaaa!
+    if (distance < 5) {  // 🔴 AAAAAAA!
         setColor(255, 0, 0);  // RED
         tone(BUZZER_PIN, 1000);  // Long Beep
     } 
