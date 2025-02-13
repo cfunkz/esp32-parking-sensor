@@ -12,8 +12,8 @@ Things needed:
 
 | HC-SR04 Pin  | ESP32 Pin |
 | ------------- | ------------- |
-| VCC  | 3.3v or 5v  |
 | -  | GND  |
+| VCC  | 3.3v or 5v  |
 | TRIG  | GPIO12  |
 | ECHO  | GPIO13  |
 
