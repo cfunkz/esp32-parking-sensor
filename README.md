@@ -28,3 +28,4 @@ Things needed:
 | ------------- | ------------- |
 | -  | GND  |
 | VCC | 3.3v or 5v  |
+| Signal | GPIO17  |
