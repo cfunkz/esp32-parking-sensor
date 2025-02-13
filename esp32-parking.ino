@@ -56,7 +56,7 @@ void loop() {
         tone(BUZZER_PIN, 1000);  // Long Beep
     } 
     else if (distance >= 5 && distance < 10) {  // 🔴 Very Close
-        setColor(255, 100, 0);  // Orange-Red
+        setColor(255, 0, 0);
         beep(1000, 250, 150);
     } 
     else if (distance >= 10 && distance < 20) {  // 🟠 Medium Close
