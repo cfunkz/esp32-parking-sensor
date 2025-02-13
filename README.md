@@ -9,3 +9,10 @@ Things needed:
 3. x1 HC-SR04 Ultrasonic
 4. ESP32
 5. Arduino IDE
+
+| HC-SR04 Pin  | ESP32 Pin |
+| ------------- | ------------- |
+| VCC  | 3.3v or 5v  |
+| GND  | GND  |
+| TRIG  | GPIO12  |
+| ECHO  | GPIO13  |
